@@ -1,0 +1,3 @@
+101,Smartphone,699.99,Latest model with OLED display
+102,Laptop,1299.49,Powerful laptop with SSD storage
+103,Headphones,199.99,Noise-canceling wireless headphones
